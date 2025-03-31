@@ -1,0 +1,2 @@
+Chamfer Distance: 3050.16
+Time taken to compute Chamfer Distance: 10.770321 milliseconds
